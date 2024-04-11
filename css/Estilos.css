@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(209, 241, 231);
+}
+
+.menu{
+    background-color: rgb(150, 235, 235);
+}
+
+.pie{
+    width: 100%;
+    background-color: rgb(10, 12, 12);
+}
+
+.inicio-pie{
+    color: aliceblue;
+}
